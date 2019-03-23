@@ -12,3 +12,4 @@ Adding a line for heroku push test.
 
 
 Test, this is another commit
+This is the 3rd commit.
